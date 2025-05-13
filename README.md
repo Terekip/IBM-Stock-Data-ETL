@@ -50,3 +50,5 @@ This project is a simple ETL (Extract, Transform, Load) pipeline built in Python
 
 *Existing tables are replaced each time the script runs—this is useful for up-to-date snapshots, but not for long-term history tracking.
 
+
+
